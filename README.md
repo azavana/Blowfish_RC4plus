@@ -1,5 +1,5 @@
 # Mutare
-Hybrid encryption program based on Blowfish and RC4+; intended for embedded systems.
+Lightweight encryption program based on Blowfish and RC4+; intended for embedded systems.
 
 # How it works
 
