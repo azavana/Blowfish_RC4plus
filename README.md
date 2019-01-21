@@ -1,4 +1,4 @@
-# Mutare
+# Blowfish_RC4plus
 Lightweight encryption program based on Blowfish and RC4+.
 
 # How it works
